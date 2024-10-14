@@ -1,8 +1,8 @@
 # 小組作業1
 
-## 專案題目
+## 專案題目(NCCU-MI-lab-website)
 
-## 架構圖
+## 架構圖(畫面)
 
 ![畫面](https://github.com/jeremy900425/NCCU-MI-lab-website/blob/main/Wireframe.png)
 
