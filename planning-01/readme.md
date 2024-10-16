@@ -4,8 +4,7 @@
 
 ## 架構圖(畫面)
 
-![畫面](https://github.com/jeremy900425/NCCU-MI-lab-website/blob/main/Wireframe1.png) ![畫面](https://github.com/jeremy900425/NCCU-MI-lab-website/blob/main/Wireframe2.png)
-
+![畫面](https://github.com/jeremy900425/NCCU-MI-lab-website/blob/main/Wireframe1.png) 
 ## 技術選型
 
 ### 1. 前端技術選擇
