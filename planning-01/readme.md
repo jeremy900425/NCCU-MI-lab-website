@@ -4,7 +4,7 @@
 
 ## 架構圖(畫面)
 
-![畫面](https://github.com/jeremy900425/NCCU-MI-lab-website/blob/main/Wireframe.png)
+![畫面](https://github.com/jeremy900425/NCCU-MI-lab-website/blob/main/Wireframe1.png)
 
 ## 技術選型
 
