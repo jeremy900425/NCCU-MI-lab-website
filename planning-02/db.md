@@ -1,3 +1,6 @@
+## SQL 的 Schema
+<img src="SQLschema.png" width="70%"/>
+
 ## NoSQL 的 Schema
 
 <img src="NoSQL.png" width="70%"/>
