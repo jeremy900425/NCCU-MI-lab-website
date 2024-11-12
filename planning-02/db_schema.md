@@ -1,5 +1,5 @@
 ## SQL 的 Schema
-<img src="SQLschema.png"/>
+<img src="SQL.png"/>
 
 #### 主要資料表 (User, File, share_links)
 1. 首先，因為有登入的功能，所以必須要有 User 資料表，記錄著基本資訊
