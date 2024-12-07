@@ -23,7 +23,7 @@
 - Go into fileupload
   - Create resource
     - Resource:{bucket} 勾CORS
-      - Resource:{filename}
+      - Resource:{filename}勾CORS
         - Create Method
           - Method type: PUT
           - AWS service
