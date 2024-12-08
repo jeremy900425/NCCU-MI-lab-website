@@ -41,3 +41,6 @@
         - */*
   - Deploy API to stage
 
+## HTTP PUT: https://spu6uhd1q7.execute-api.ap-northeast-1.amazonaws.com/finalpj/{bucket}/{filename}
+- Example: https://spu6uhd1q7.execute-api.ap-northeast-1.amazonaws.com/finalpj/file-system2/test2.pdf
+
