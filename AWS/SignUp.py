@@ -18,9 +18,8 @@ def register_account(username, password):
         hashed_password = bcrypt.hashpw(password.encode(), bcrypt.gensalt()).decode()
 
         # 新增使用者
-        cursor.execute(
-            "INSERT INTO Users (username, pwd) VALUES (%s, %s)"
-        )
+        cursor.execute("INSERT INTO Users (Username, pwd) VALUES (%s, %s)", (username, hashed_password))
+
         conn.commit()
         print("註冊成功！")
         return True
@@ -32,4 +31,4 @@ def register_account(username, password):
     finally:
         cursor.close()
         conn.close()
-register_account("test", "123")
+register_account("test2", "123")
